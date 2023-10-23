@@ -9,10 +9,11 @@ function subtract(a,b) {
 	return a-b;
 }
 
+
 function main(a,b) {
 	return a/b;
+
+function merrge(a,b) {
+	return a*b;
 }
 
-function main2(a,b) {
-	return a/b;
-}
