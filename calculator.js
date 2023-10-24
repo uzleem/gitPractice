@@ -17,3 +17,6 @@ function merrge(a,b) {
 	return a*b;
 }
 
+function stash(str) {
+	return str
+}
