@@ -13,3 +13,7 @@ function merrge(a,b) {
 	return a*b;
 }
 
+// hello 추가
+function hello(str) {
+	return str;
+}
