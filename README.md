@@ -1,2 +1,2 @@
 # gitPractice
-push test 3
+local > pushtest4
